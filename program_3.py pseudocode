@@ -1,0 +1,4 @@
+#start by importing math then create and define a function tax with a single argument 'a' next outside of the function create a 
+#function 'amt' that will take the users input on the monthly tax next creat two lines one that is a variable 'state_tax' and the other being 'sales_tax'
+#then multiply the 'a' argument in each variable by the appropriate tax percentage then add those two and name that variable 'total_tax' and create yet another variable
+#and add 'a'+"total_tax' or the other two tax variables together to make a 'total' variable then create a print function and print your answer
